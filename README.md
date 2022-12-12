@@ -1,5 +1,16 @@
 # White Model
-## Ray Song 2022
+Ray Song 2022
+
+## Description
+What would you do with a white paper? Will you write something on it? Or will you fold it into geometric shapes? 
+
+The installation asks the audience to use their own creativity to change the position of the white paper, lights and camera, and the AI will understand the audience's creation and output a text in English and Chinese. The audience will experience the importance of white paper as a symbol of representation in the current Chinese social environment, and how audience participation can promote the use of this symbol not only in Chinese contexts, but also in a wider range of applications. 
+
+## Workflow
+1. The audience folds and places a whilte paper, moves the light and the camera.
+2. The camera will take a picture when the user clicks the button on the monitor. 
+3. The picture taken by the camera will be sent to COCO model to generate a summary of the picture. 
+4. Then the summary will be sent to GPT-3 to generate text to extend the summary.
 
 ## Images
 <img width=60% src="https://github.com/raysonguw/white-model/blob/main/white_model.jpg" alt="White Model">
