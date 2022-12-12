@@ -33,6 +33,6 @@ The installation asks the audience to use their own creativity to change the pos
 ### Reference
 * [Memes, Puns and Blank Sheets of Paper: China’s Creative Acts of Protest](https://www.nytimes.com/2022/11/28/world/asia/china-protests-blank-sheets.html)
 * [Blank sheets of paper become symbol of defiance in China protests](https://www.reuters.com/world/china/blank-sheets-paper-become-symbol-defiance-china-protests-2022-11-27/)
-* [Image to Text Summary](https://huggingface.co/spaces/sohaibcs1/Image-to-Text-Summary)
+* [Image to Text Summary by Muhammad Sohaib](https://huggingface.co/spaces/sohaibcs1/Image-to-Text-Summary)
 * [GPT3 API](https://openai.com/api/)
 * [COCO Dataset](https://cocodataset.org/#home)
