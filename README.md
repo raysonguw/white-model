@@ -13,9 +13,15 @@ The installation asks the audience to use their own creativity to change the pos
 3. The picture taken by the camera will be sent to COCO model to generate a summary of the picture using GPT-2. 
 4. Then the summary will be sent to GPT-3 to generate text to extend the summary.
 
-## Miscellaneous
-- Webcam: Logitech C925e
-- Interface: Gradio
+## Hardware
+- Webcam: [Logitech C925e](https://www.logitech.com/en-us/products/webcams/c925e-business-webcam.960-001075.html)
+- Box: Home Depot
+- Lights & Monitor Provided by DXARTS
+
+## Software
+- Interface: [Gradio](https://gradio.app/)
+- Image Dataset: [COCO](https://cocodataset.org/#home)
+- AI Model: [GPT-2 & GPT-3](https://openai.com/)
 - Programming Language: Python
 
 ## Images
