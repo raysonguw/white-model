@@ -1,6 +1,6 @@
 # White Model
 Ray Song 
-2022
+2022 Fall
 
 ## Description
 What would you do with a white paper? Will you write something on it? Or will you fold it into geometric shapes? 
